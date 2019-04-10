@@ -1,0 +1,176 @@
+
+Printing Vector A  32
+6
+8
+2
+1
+6
+0
+5
+4
+1
+0
+2
+3
+2
+3
+8
+3
+3
+5
+1
+7
+4
+7
+0
+5
+6
+0
+2
+4
+0
+0
+0
+6
+
+Printing Vector B  32
+7
+3
+5
+4
+3
+1
+0
+4
+1
+2
+5
+3
+5
+4
+4
+6
+0
+5
+2
+2
+3
+2
+7
+0
+1
+0
+2
+1
+8
+1
+5
+4
+End: 24
+End: 25
+End: 26
+End: 27
+End: 28
+End: 29
+End: 30
+End: 31
+Tid: 0, Thread: 0
+Tid: 1, Thread: 1
+Tid: 2, Thread: 2
+Tid: 3, Thread: 3
+Tid: 4, Thread: 4
+Tid: 5, Thread: 5
+Tid: 6, Thread: 6
+Tid: 7, Thread: 7
+Vector cA: 6 Thread: 0
+Vector cA: 8 Thread: 1
+Vector cA: 2 Thread: 2
+Vector cA: 1 Thread: 3
+Vector cA: 6 Thread: 4
+Vector cA: 0 Thread: 5
+Vector cA: 5 Thread: 6
+Vector cA: 4 Thread: 7
+Tid: 8, Thread: 0
+Tid: 9, Thread: 1
+Tid: 10, Thread: 2
+Tid: 11, Thread: 3
+Tid: 12, Thread: 4
+Tid: 13, Thread: 5
+Tid: 14, Thread: 6
+Tid: 15, Thread: 7
+Vector cA: 1 Thread: 0
+Vector cA: 0 Thread: 1
+Vector cA: 2 Thread: 2
+Vector cA: 3 Thread: 3
+Vector cA: 2 Thread: 4
+Vector cA: 3 Thread: 5
+Vector cA: 8 Thread: 6
+Vector cA: 3 Thread: 7
+Tid: 16, Thread: 0
+Tid: 17, Thread: 1
+Tid: 18, Thread: 2
+Tid: 19, Thread: 3
+Tid: 20, Thread: 4
+Tid: 21, Thread: 5
+Tid: 22, Thread: 6
+Tid: 23, Thread: 7
+Vector cA: 3 Thread: 0
+Vector cA: 5 Thread: 1
+Vector cA: 1 Thread: 2
+Vector cA: 7 Thread: 3
+Vector cA: 4 Thread: 4
+Vector cA: 7 Thread: 5
+Vector cA: 0 Thread: 6
+Vector cA: 5 Thread: 7
+Tid: 24, Thread: 0
+Tid: 25, Thread: 1
+Tid: 26, Thread: 2
+Tid: 27, Thread: 3
+Tid: 28, Thread: 4
+Tid: 29, Thread: 5
+Tid: 30, Thread: 6
+Tid: 31, Thread: 7
+Vector cA: 6 Thread: 0
+Vector cA: 0 Thread: 1
+Vector cA: 2 Thread: 2
+Vector cA: 4 Thread: 3
+Vector cA: 0 Thread: 4
+Vector cA: 0 Thread: 5
+Vector cA: 0 Thread: 6
+Vector cA: 6 Thread: 7
+
+Printing vector C  32
+13
+11
+7
+5
+9
+1
+5
+8
+2
+2
+7
+6
+7
+7
+12
+9
+3
+10
+3
+9
+7
+9
+7
+5
+7
+0
+4
+5
+8
+1
+5
+10
+Tiempo kernel: 0.000034 s    0.000941 GFLOPS
+Tiempo total: 0.105671 s    0.000000 GFLOPS 
